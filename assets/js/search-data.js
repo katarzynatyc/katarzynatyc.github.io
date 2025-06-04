@@ -9,9 +9,9 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-ms-students",
-          title: "MS Students",
-          description: "Summer Research Internship in Spatial Biology",
+  },{id: "nav-t-y-c-genomicsgroup",
+          title: "T.Y.C.GenomicsGroup",
+          description: "members of the group",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
