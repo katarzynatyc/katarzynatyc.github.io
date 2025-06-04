@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
+title: T.Y.C.GenomicsGroup
 description: members of the group
 nav: true
 nav_order: 1
@@ -15,11 +15,6 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       Katarzyna M. Tyc, PhD
-
-title: MS Students
-description: Summer Research Internship in Spatial Biology
-
-profiles:
   - align: left
     image: tycgenomicsgroup/m.png
     content: about_miranda.md
