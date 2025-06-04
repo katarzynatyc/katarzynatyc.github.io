@@ -2,9 +2,9 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the lab or group
+description: members of the group
 nav: true
-nav_order: 3
+nav_order: 1
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -15,10 +15,15 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       Katarzyna M. Tyc, PhD
+
+title: MS Students
+description: Summer Research Internship in Spatial Biology
+
+profiles:
   - align: left
     image: tycgenomicsgroup/m.png
     content: about_miranda.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      Miranda Brown, MS Student
+      Miranda Brown
 ---
