@@ -14,13 +14,11 @@ profiles:
     content: about_me.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      Katarzyna M. Tyc, PhD
   - align: left
     image: tycgenomicsgroup/m.png
     content: about_miranda.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      MS Summer Research Intenrship
+      Miranda Brown, MS Student
 ---
