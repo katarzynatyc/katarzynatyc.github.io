@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>VCU SOPH & Massey Cancer Center</a>
+subtitle: <a href='https://sph.vcu.edu/about/portfolio/details/tyck/'>VCU SOPH</a>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
