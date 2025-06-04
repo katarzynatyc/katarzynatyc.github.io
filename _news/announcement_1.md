@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<a href="[https://www.pinterest.com](https://pubmed.ncbi.nlm.nih.gov/40258827/)">Our paper on cell typing is now published!</a> 
+Our paper on cell typing is now published! Check it out [here](https://pubmed.ncbi.nlm.nih.gov/40258827/).
