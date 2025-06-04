@@ -22,7 +22,7 @@ profiles:
     more_info: >
       Miranda Brown
   - align: left
-    image: tycgenomicsgroup/s-square.png
+    image: tycgenomicsgroup/s.png
     content: about_stella.md
     image_circular: false # crops the image to make it circular
     more_info: >
