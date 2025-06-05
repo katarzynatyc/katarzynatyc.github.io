@@ -65,9 +65,9 @@ profiles:
 
   - category: Alumni
     names:
-    - Reid Spalding
-    - Akshaya Ranganathan
-    - Alex Lupton
+     - Reid Spalding
+     - Akshaya Ranganathan
+     - Alex Lupton
     project: "MS students – VCU Bioinformatics Graduate Externship (2023). Project: NGS Pipeline for *S. sanguinis* Mutant Screening."
 
 ---
