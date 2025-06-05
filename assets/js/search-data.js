@@ -389,11 +389,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-our-paper-on-cell-typing-is-now-published-check-it-out-here",
+            },},{id: "news-our-paper-on-cell-typing-is-now-published-check-it-out-here",
           title: 'Our paper on cell typing is now published! Check it out here.',
+          description: "",
+          section: "News",},{id: "news-seedling-we-won-a-seed-grant-sparkles-our-team-has-been-awarded-a-seed-grant-to-explore-the-spatial-microbiome-and-its-dynamic-relationship-with-the-host-dna-join-us-to-chart-new-territory-in-microbial-mapping-and-host-microbe-interactions-rocket",
+          title: ':seedling: We Won a Seed Grant! :sparkles: Our team has been awarded a...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
