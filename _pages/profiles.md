@@ -15,13 +15,13 @@ category_order:
   - Alumni
 
 profiles:
-  - category: PI / Lab Lead
+  - category: Group Lead
     align: right
     image: tycgenomicsgroup/kmt-image2.png
     content: about_me.md
     image_circular: false
     more_info: >
-      Department of Biostatistics and Bioinformatics Core
+      Katarzyna M. Tyc, PhD
 
   - category: MS Students
     align: left
@@ -29,7 +29,7 @@ profiles:
     content: about_miranda.md
     image_circular: false
     more_info: >
-      Spatial Microbiome Profiling
+      Miranda Brown, Spatial Microbiome Profiling
 
   - category: MS Students
     align: left
@@ -37,15 +37,15 @@ profiles:
     content: about_stella.md
     image_circular: false
     more_info: >
-      Pangenomics
+      Stella Castro, Pangenomics
 
-  - category: Research Assistants
+  - category: Undergraduate Students
     align: left
     image: tycgenomicsgroup/place-holder.png
     content: about_tbd.md
     image_circular: false
     more_info: >
-      Reviewing AI tools with application to genomics
+      Pangenomics
 
   - category: Internship
     align: left
