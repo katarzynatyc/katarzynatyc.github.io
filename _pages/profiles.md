@@ -8,10 +8,7 @@ nav_order: 1
 
 category_order:
   - PI / Lab Lead
-  - Postdocs
-  - PhD Students
   - MS Students
-  - Undergraduate Students
   - Research Assistants
   - Internship
   - Affiliates
@@ -20,23 +17,15 @@ category_order:
 profiles:
   - category: PI / Lab Lead
     align: right
-    image: kmt-image2.png
+    image: tycgenomicsgroup/kmt-image2.png
     content: about_me.md
     image_circular: false
     more_info: >
-      Assistant Professor, Bioinformatics Core
-
-  - category: PhD Students
-    align: left
-    image: place-holder.png
-    content: about_me.md
-    image_circular: false
-    more_info: >
-      Pangenomics or Spatial Omics
+      Department of Biostatistics and Bioinformatics Core
 
   - category: MS Students
     align: left
-    image: m.png
+    image: tycgenomicsgroup/m.png
     content: about_miranda.md
     image_circular: false
     more_info: >
@@ -44,23 +33,15 @@ profiles:
 
   - category: MS Students
     align: left
-    image: s.png
+    image: tycgenomicsgroup/s.png
     content: about_stella.md
     image_circular: false
     more_info: >
       Pangenomics
 
-  - category: Undergraduate Students
-    align: left
-    image: place-holder.png
-    content: about_me.md
-    image_circular: false
-    more_info: >
-      Pipeline development support
-
   - category: Research Assistants
     align: left
-    image: place-holder.png
+    image: tycgenomicsgroup/place-holder.png
     content: about_me.md
     image_circular: false
     more_info: >
@@ -68,7 +49,7 @@ profiles:
 
   - category: Internship
     align: left
-    image: place-holder.png
+    image: tycgenomicsgroup/place-holder.png
     content: about_me.md
     image_circular: false
     more_info: >
@@ -76,7 +57,7 @@ profiles:
 
   - category: Affiliates
     align: left
-    image: place-holder.png
+    image: tycgenomicsgroup/place-holder.png
     content: about_me.md
     image_circular: false
     more_info: >
