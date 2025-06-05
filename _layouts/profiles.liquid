@@ -1,51 +1,37 @@
 ---
-layout: page
+layout: default
 ---
+
 <div class="post">
   <article>
-    {% if page.profiles %}
-
-      {%- comment -%}
-      Get unique list of categories from profiles
-      {%- endcomment -%}
+    {% if page.category_order %}
+      {% assign categories = page.category_order %}
+    {% else %}
       {% assign categories = page.profiles | map: 'category' | uniq %}
+    {% endif %}
 
-      {%- for cat in categories -%}
-        <h2>{{ cat }}</h2>
-        <hr>
-
-        {%- for profile in page.profiles -%}
-          {% if profile.category == cat %}
-            <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
-              {% if profile.image %}
-                {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
-                {% if profile.image_circular %}
-                  {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
-                {% else %}
-                  {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
-                {% endif %}
-                {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
-                {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
+    {% for cat in categories %}
+      <h2>{{ cat }}</h2>
+      <div class="profiles">
+        {% for person in page.profiles %}
+          {% if person.category == cat %}
+            <div class="profile float-{{ person.align | default: 'left' }}">
+              {% if person.image %}
+                <img src="{{ person.image | prepend: 'assets/img/' }}" class="{% if person.image_circular %}circular{% else %}rounded{% endif %}" alt="{{ person.content }}">
               {% endif %}
 
-              {% if profile.more_info %}
-                <div class="more-info">{{ profile.more_info }}</div>
+              {% if person.more_info %}
+                <p>{{ person.more_info }}</p>
+              {% endif %}
+
+              {% if person.content %}
+                {% capture content_include %}{% include_relative {{ person.content }} %}{% endcapture %}
+                {{ content_include | markdownify }}
               {% endif %}
             </div>
-
-            <div class="clearfix">
-              {% if profile.content %}
-                {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
-                {{ profile_content | markdownify }}
-              {% else %}
-                {{ content }}
-              {% endif %}
-            </div>
-
-            <hr>
           {% endif %}
         {% endfor %}
-      {% endfor %}
-    {% endif %}
+      </div>
+    {% endfor %}
   </article>
 </div>
