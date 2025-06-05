@@ -392,7 +392,7 @@ ninja.data = [{
             },},{id: "news-our-paper-on-cell-typing-is-now-published-check-it-out-here",
           title: 'Our paper on cell typing is now published! Check it out here.',
           description: "",
-          section: "News",},{id: "news-seedling-we-won-a-seed-grant-sparkles-our-team-has-been-awarded-a-seed-grant-to-explore-the-spatial-microbiome-and-its-dynamic-relationship-with-the-host-dna-join-us-to-chart-new-territory-in-microbial-mapping-and-host-microbe-interactions-rocket",
+          section: "News",},{id: "news-seedling-we-won-a-seed-grant-sparkles-our-team-has-been-awarded-a-seed-grant-to-explore-the-spatial-microbiome-and-its-dynamic-relationship-with-the-host-dna-join-us-as-we-come-full-circle-from-early-modeling-to-spatially-resolved-insights-in-uncovering-the-microbiome-s-intricate-interactions-with-its-host-rocket",
           title: ':seedling: We Won a Seed Grant! :sparkles: Our team has been awarded a...',
           description: "",
           section: "News",},{id: "projects-project-1",
