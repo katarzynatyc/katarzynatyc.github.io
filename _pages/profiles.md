@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 
 category_order:
-  - Group Lead
+  - PI / Lab Lead
   - MS Students
   - Research Assistants
   - Internship
@@ -15,7 +15,7 @@ category_order:
   - Alumni
 
 profiles:
-  - category: Group Lead
+  - category: PI / Lab Lead
     align: right
     image: tycgenomicsgroup/kmt-image2.png
     content: about_me.md
