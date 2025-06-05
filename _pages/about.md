@@ -16,7 +16,10 @@ latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
-  
 ---
 
-I am an Assistant Professor in the Department of Biostatistics at the Virginia Commonwealth University (VCU) School of Public Health and a Faculty member in the Bioinformatics Shared Resource Core at the Massey Comprehensive Cancer Center. My research centers on developing and applying innovative computational methods to dissect complex biological systems, integrating high-dimensional biological data with clinical understanding. My work spans areas such as spatial biology, host-microbe interactions, cancer genomics and person-specific health outcomes, and human genetics. I am always open to discussing potential collaborations with investigators across the medical and life sciences campuses and encourage students interested in internships or graduate research opportunities to reach out. Please explore the site to learn more about my specific research projects, publications, and how we might work together.
+I am an Assistant Professor in the Department of Biostatistics at the Virginia Commonwealth University (VCU) School of Public Health and a Faculty member in the Bioinformatics Shared Resource Core at the Massey Comprehensive Cancer Center. My research centers on developing and applying innovative computational methods to dissect complex biological systems, integrating high-dimensional biological data with clinical understanding. My work spans areas such as spatial biology, host-microbe interactions, cancer genomics and person-specific health outcomes, and human genetics. 
+
+I am always open to discussing potential collaborations with investigators across the medical and life sciences campuses and encourage students interested in internships or graduate research opportunities to reach out. 
+
+Please explore the site to learn more about my specific research projects, publications, and how we might work together.
