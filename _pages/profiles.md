@@ -1,13 +1,13 @@
 ---
 layout: profiles
 permalink: /people/
-title: Meet the Lab
-description: Members of the Lab
+title: meet the team
+description: Members of the T.Y.C.GenomicsGroup
 nav: true
 nav_order: 1
 
 category_order:
-  - PI / Lab Lead
+  - Group Lead
   - MS Students
   - Research Assistants
   - Internship
@@ -29,7 +29,7 @@ profiles:
     content: about_miranda.md
     image_circular: false
     more_info: >
-      Pangenomics
+      Spatial Microbiome Profiling
 
   - category: MS Students
     align: left
@@ -42,7 +42,7 @@ profiles:
   - category: Research Assistants
     align: left
     image: tycgenomicsgroup/place-holder.png
-    content: about_me.md
+    content: about_tbd.md
     image_circular: false
     more_info: >
       Reviewing AI tools with application to genomics
@@ -50,7 +50,7 @@ profiles:
   - category: Internship
     align: left
     image: tycgenomicsgroup/place-holder.png
-    content: about_me.md
+    content: about_tbd.md
     image_circular: false
     more_info: >
       Bioinformatics intern exploring Spatial Omics
@@ -58,15 +58,16 @@ profiles:
   - category: Affiliates
     align: left
     image: tycgenomicsgroup/place-holder.png
-    content: about_me.md
+    content: about_tbd.md
     image_circular: false
     more_info: >
       Collaborator on pangenomics project
 
   - category: Alumni
     names:
-    - xxx – now at Broad Institute
-    - xxx – MS student, graduated 2023
-    - xxx – Summer intern, 2022
-    - xxx – Undergraduate research fellow
+    - Reid Spalding
+    - Akshaya Ranganathan
+    - Alex Lupton
+    project: "MS students – VCU Bioinformatics Graduate Externship (2023). Project: NGS Pipeline for *S. sanguinis* Mutant Screening."
+
 ---
