@@ -9,8 +9,7 @@ nav_order: 1
 category_order:
   - PI / Lab Lead
   - MS Students
-  - Research Assistants
-  - Internship
+  - Undergraduate Students
   - Affiliates
   - Alumni
 
@@ -45,15 +44,7 @@ profiles:
     content: about_tbd.md
     image_circular: false
     more_info: >
-      Pangenomics
-
-  - category: Internship
-    align: left
-    image: tycgenomicsgroup/place-holder.png
-    content: about_tbd.md
-    image_circular: false
-    more_info: >
-      Bioinformatics intern exploring Spatial Omics
+      Spatial Cancer Profiling
 
   - category: Affiliates
     align: left
@@ -64,10 +55,9 @@ profiles:
       Collaborator on pangenomics project
 
   - category: Alumni
+    project: "MS students – VCU Bioinformatics Graduate Externship (2023). Project: NGS Pipeline for S. sanguinis Mutant Screening."
     names:
      - Reid Spalding
      - Akshaya Ranganathan
      - Alex Lupton
-    project: "MS students – VCU Bioinformatics Graduate Externship (2023). Project: NGS Pipeline for *S. sanguinis* Mutant Screening."
-
 ---
