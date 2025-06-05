@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: Meet the Lab
-description: Members of the Tyc Lab
+description: Members of the Lab
 nav: true
 nav_order: 1
 
@@ -20,70 +20,70 @@ category_order:
 profiles:
   - category: PI / Lab Lead
     align: right
-    image: tyc.png
-    content: about_tyc.md
-    image_circular: true
+    image: kmt-image2.png
+    content: about_me.md
+    image_circular: false
     more_info: >
       Assistant Professor, Bioinformatics Core
 
-  - category: Postdocs
-    align: left
-    image: postdoc1.png
-    content: about_postdoc1.md
-    image_circular: false
-    more_info: >
-      Spatial omics & immune profiling
-
   - category: PhD Students
     align: left
-    image: phd1.png
-    content: about_phd1.md
+    image: place-holder.png
+    content: about_me.md
     image_circular: false
     more_info: >
-      Chromatin accessibility in development
+      Pangenomics or Spatial Omics
 
   - category: MS Students
     align: left
-    image: ms1.png
-    content: about_ms1.md
+    image: m.png
+    content: about_miranda.md
     image_circular: false
     more_info: >
-      Cancer transcriptomics
+      Pangenomics
+
+  - category: MS Students
+    align: left
+    image: s.png
+    content: about_stella.md
+    image_circular: false
+    more_info: >
+      Pangenomics
 
   - category: Undergraduate Students
     align: left
-    image: undergrad1.png
-    content: about_undergrad1.md
+    image: place-holder.png
+    content: about_me.md
     image_circular: false
     more_info: >
       Pipeline development support
 
   - category: Research Assistants
     align: left
-    image: ra1.png
-    content: about_ra1.md
+    image: place-holder.png
+    content: about_me.md
     image_circular: false
     more_info: >
-      Maintains sequencing data workflows
+      Reviewing AI tools with application to genomics
 
   - category: Internship
     align: left
-    image: intern1.png
-    content: about_intern1.md
+    image: place-holder.png
+    content: about_me.md
     image_circular: false
     more_info: >
-      Summer intern exploring single-cell RNA-seq
+      Bioinformatics intern exploring Spatial Omics
 
   - category: Affiliates
     align: left
-    image: affiliate1.png
-    content: about_affiliate1.md
+    image: place-holder.png
+    content: about_me.md
     image_circular: false
     more_info: >
-      Collaborator (20% effort) on AI-based annotation tools
+      Collaborator on pangenomics project
 
   - category: Alumni
-  names:
+    names:
     - xxx – now at Broad Institute
     - xxx – MS student, graduated 2023
     - xxx – Summer intern, 2022
