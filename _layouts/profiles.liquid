@@ -4,6 +4,7 @@ layout: default
 
 <div class="post">
   <article>
+
     {% if page.category_order %}
       {% assign categories = page.category_order %}
     {% else %}
@@ -12,39 +13,47 @@ layout: default
 
     {% for cat in categories %}
       <h2>{{ cat }}</h2>
-      <div class="profiles">
 
-        {% if cat == "Alumni" %}
-          {% assign alumni_entry = page.profiles | where: "category", "Alumni" | first %}
-          {% if alumni_entry.names %}
-            <ul>
-              {% for name in alumni_entry.names %}
-                <li>{{ name }}</li>
-              {% endfor %}
-            </ul>
-          {% endif %}
-        {% else %}
-          {% for person in page.profiles %}
-            {% if person.category == cat %}
-              <div class="profile float-{{ person.align | default: 'left' }}">
-                {% if person.image %}
-                  <img src="{{ person.image | prepend: 'assets/img/' }}" class="{% if person.image_circular %}circular{% else %}rounded{% endif %}" alt="{{ person.content }}">
-                {% endif %}
-
-                {% if person.more_info %}
-                  <p>{{ person.more_info }}</p>
-                {% endif %}
-
-                {% if person.content %}
-                  {% capture content_include %}{% include_relative {{ person.content }} %}{% endcapture %}
-                  {{ content_include | markdownify }}
-                {% endif %}
-              </div>
-            {% endif %}
-          {% endfor %}
+      {% if cat == "Alumni" %}
+        {% assign alumni_entry = page.profiles | where: "category", "Alumni" | first %}
+        {% if alumni_entry.names %}
+          <ul>
+            {% for name in alumni_entry.names %}
+              <li>{{ name }}</li>
+            {% endfor %}
+          </ul>
         {% endif %}
 
-      </div>
+      {% else %}
+        {% assign people = page.profiles | where: "category", cat %}
+        {% for profile in people %}
+          <hr>
+          <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
+            {% if profile.image %}
+              {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
+              {% if profile.image_circular %}
+                {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+              {% else %}
+                {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
+              {% endif %}
+              {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3 }}px, (min-width: 576px) 30vw, 95vw{% endcapture %}
+              {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
+            {% endif %}
+
+            {% if profile.more_info %}
+              <div class="more-info">{{ profile.more_info }}</div>
+            {% endif %}
+          </div>
+
+          <div class="clearfix">
+            {% if profile.content %}
+              {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
+              {{ profile_content | markdownify }}
+            {% endif %}
+          </div>
+        {% endfor %}
+      {% endif %}
     {% endfor %}
+
   </article>
 </div>
