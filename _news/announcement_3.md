@@ -7,5 +7,6 @@ related_posts: false
 
 :seedling: We Won a Seed Grant! :sparkles:
 
-Our team has been awarded a Seed Grant to explore the spatial microbiome and its dynamic relationship with the host! :DNA:
-Join us to chart new territory in microbial mapping and host-microbe interactions. :rocket:
+Our team has been awarded a Seed Grant to explore the spatial microbiome and its dynamic relationship with the host! :dna:
+
+**Join us** as we come full circle — from early modeling to spatially resolved insights — in uncovering the microbiome’s intricate interactions with its host. :rocket:
