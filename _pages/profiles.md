@@ -38,13 +38,21 @@ profiles:
     more_info: >
       Stella Castro, Pangenomics
 
+  - category: MS Students
+    align: left
+    image: tycgenomicsgroup/place-holder.png
+    content: about_shasmeen.md
+    image_circular: false
+    more_info: >
+      Shasmeen Azhar, Pangenomics
+    
   - category: Undergraduate Students
     align: left
     image: tycgenomicsgroup/place-holder.png
-    content: about_tbd.md
+    content: about_sameen.md
     image_circular: false
     more_info: >
-      Spatial Cancer Profiling
+      Sameen Hossain, Spatial Cancer Profiling
 
   - category: Affiliates
     align: left
