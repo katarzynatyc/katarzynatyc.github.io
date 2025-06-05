@@ -16,6 +16,7 @@ layout: default
 
       {% if cat == "Alumni" %}
         {% assign alumni_entry = page.profiles | where: "category", "Alumni" | first %}
+
         {% if alumni_entry.names %}
           <ul>
             {% for name in alumni_entry.names %}
@@ -24,11 +25,15 @@ layout: default
           </ul>
         {% endif %}
 
+        {% if alumni_entry.project %}
+          <p><em>{{ alumni_entry.project }}</em></p>
+        {% endif %}
+
       {% else %}
         {% assign people = page.profiles | where: "category", cat %}
         {% for profile in people %}
           <hr>
-          <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
+          <div class="profile float-{{ profile.align | default: 'left' }}">
             {% if profile.image %}
               {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
               {% if profile.image_circular %}
@@ -53,6 +58,7 @@ layout: default
           </div>
         {% endfor %}
       {% endif %}
+
     {% endfor %}
 
   </article>
