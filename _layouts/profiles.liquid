@@ -13,24 +13,37 @@ layout: default
     {% for cat in categories %}
       <h2>{{ cat }}</h2>
       <div class="profiles">
-        {% for person in page.profiles %}
-          {% if person.category == cat %}
-            <div class="profile float-{{ person.align | default: 'left' }}">
-              {% if person.image %}
-                <img src="{{ person.image | prepend: 'assets/img/' }}" class="{% if person.image_circular %}circular{% else %}rounded{% endif %}" alt="{{ person.content }}">
-              {% endif %}
 
-              {% if person.more_info %}
-                <p>{{ person.more_info }}</p>
-              {% endif %}
-
-              {% if person.content %}
-                {% capture content_include %}{% include_relative {{ person.content }} %}{% endcapture %}
-                {{ content_include | markdownify }}
-              {% endif %}
-            </div>
+        {% if cat == "Alumni" %}
+          {% assign alumni_entry = page.profiles | where: "category", "Alumni" | first %}
+          {% if alumni_entry.names %}
+            <ul>
+              {% for name in alumni_entry.names %}
+                <li>{{ name }}</li>
+              {% endfor %}
+            </ul>
           {% endif %}
-        {% endfor %}
+        {% else %}
+          {% for person in page.profiles %}
+            {% if person.category == cat %}
+              <div class="profile float-{{ person.align | default: 'left' }}">
+                {% if person.image %}
+                  <img src="{{ person.image | prepend: 'assets/img/' }}" class="{% if person.image_circular %}circular{% else %}rounded{% endif %}" alt="{{ person.content }}">
+                {% endif %}
+
+                {% if person.more_info %}
+                  <p>{{ person.more_info }}</p>
+                {% endif %}
+
+                {% if person.content %}
+                  {% capture content_include %}{% include_relative {{ person.content }} %}{% endcapture %}
+                  {{ content_include | markdownify }}
+                {% endif %}
+              </div>
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+
       </div>
     {% endfor %}
   </article>
