@@ -17,16 +17,16 @@ layout: default
       {% if cat == "Alumni" %}
         {% assign alumni_entry = page.profiles | where: "category", "Alumni" | first %}
 
+        {% if alumni_entry.project %}
+          <p><em>{{ alumni_entry.project }}</em></p>
+        {% endif %}
+
         {% if alumni_entry.names %}
           <ul>
             {% for name in alumni_entry.names %}
               <li>{{ name }}</li>
             {% endfor %}
           </ul>
-        {% endif %}
-
-        {% if alumni_entry.project %}
-          <p><em>{{ alumni_entry.project }}</em></p>
         {% endif %}
 
       {% else %}
