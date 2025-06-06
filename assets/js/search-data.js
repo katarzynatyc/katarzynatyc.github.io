@@ -384,12 +384,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-announcement-2",
-          title: 'Announcement_2',
+            },},{id: "news-tada-we-won-the-acs-irg-pilot-grant-microscope-we-re-diving-deep-into-how-genetic-diversity-shapes-cancer-using-cutting-edge-pangenome-approaches-earth-americas-dna",
+          title: ':tada: We Won the ACS-IRG Pilot Grant! :microscope: We’re diving deep into how...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-our-paper-on-cell-typing-is-now-published-check-it-out-here",
+          section: "News",},{id: "news-our-paper-on-cell-typing-is-now-published-check-it-out-here",
           title: 'Our paper on cell typing is now published! Check it out here.',
           description: "",
           section: "News",},{id: "news-seedling-we-won-cmeda-seed-grant-sparkles-our-team-has-been-awarded-a-seed-grant-to-explore-the-spatial-microbiome-and-its-dynamic-relationship-with-the-host-dna-join-us-as-we-come-full-circle-from-early-modeling-to-spatially-resolved-insights-in-uncovering-the-microbiome-s-intricate-interactions-with-its-host-rocket",
