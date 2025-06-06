@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-:seedling: We Won a Seed Grant! :sparkles:
+:seedling: **We Won cMEDA Seed Grant!** :sparkles:
 
 Our team has been awarded a Seed Grant to explore the spatial microbiome and its dynamic relationship with the host! :dna:
 
