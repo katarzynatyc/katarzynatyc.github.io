@@ -30,7 +30,15 @@ profiles:
     more_info: >
       Miranda Brown, Spatial Microbiome Profiling
 
-  - category: MS Students
+- category: MS Students
+    align: left
+    image: tycgenomicsgroup/place-holder.png
+    content: about_shasmeen.md
+    image_circular: false
+    more_info: >
+      Shasmeen Azhar, Pangenomics
+
+- category: MS Students
     align: left
     image: tycgenomicsgroup/s.png
     content: about_stella.md
@@ -38,14 +46,30 @@ profiles:
     more_info: >
       Stella Castro, Pangenomics
 
-  - category: MS Students
+- category: MS Students
     align: left
     image: tycgenomicsgroup/place-holder.png
-    content: about_shasmeen.md
+    content: about_tbd.md
     image_circular: false
     more_info: >
-      Shasmeen Azhar, Pangenomics
-    
+      Francisco Meersohn, Spatial Cancer Profiling
+
+- category: MS Students
+    align: left
+    image: tycgenomicsgroup/place-holder.png
+    content: about_tbd.md
+    image_circular: false
+    more_info: >
+      Andrew Sanford, Spatial Cancer Profiling
+
+- category: MS Students
+    align: left
+    image: tycgenomicsgroup/place-holder.png
+    content: about_tbd.md
+    image_circular: false
+    more_info: >
+      Maxwell Moberg, Spatial Cancer Profiling
+  
   - category: Undergraduate Students
     align: left
     image: tycgenomicsgroup/place-holder.png
@@ -60,7 +84,15 @@ profiles:
     content: about_tbd.md
     image_circular: false
     more_info: >
-      Collaborator on pangenomics project
+      Brydon Wall, Pangenomics Collaborator
+
+- category: Affiliates
+    align: left
+    image: tycgenomicsgroup/place-holder.png
+    content: about_tbd.md
+    image_circular: false
+    more_info: >
+      My (Jasmine) Nguyen, Pangenomics Collaborator
 
   - category: Alumni
     project: "MS students – VCU Bioinformatics Graduate Externship (2023). Project: NGS Pipeline for S. sanguinis Mutant Screening."
