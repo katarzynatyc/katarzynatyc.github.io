@@ -70,7 +70,7 @@ profiles:
     more_info: >
       Maxwell Moberg, Spatial Cancer Profiling
   
-   - category: Undergraduate Students
+  - category: Undergraduate Students
     align: left
     image: tycgenomicsgroup/place-holder.png
     content: about_sameen.md
