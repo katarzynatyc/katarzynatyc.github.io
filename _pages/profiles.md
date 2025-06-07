@@ -30,7 +30,7 @@ profiles:
     more_info: >
       Miranda Brown, Spatial Microbiome Profiling
 
-- category: MS Students
+  - category: MS Students
     align: left
     image: tycgenomicsgroup/place-holder.png
     content: about_shasmeen.md
@@ -38,7 +38,7 @@ profiles:
     more_info: >
       Shasmeen Azhar, Pangenomics
 
-- category: MS Students
+  - category: MS Students
     align: left
     image: tycgenomicsgroup/s.png
     content: about_stella.md
@@ -46,7 +46,7 @@ profiles:
     more_info: >
       Stella Castro, Pangenomics
 
-- category: MS Students
+  - category: MS Students
     align: left
     image: tycgenomicsgroup/place-holder.png
     content: about_tbd.md
@@ -54,7 +54,7 @@ profiles:
     more_info: >
       Francisco Meersohn, Spatial Cancer Profiling
 
-- category: MS Students
+  - category: MS Students
     align: left
     image: tycgenomicsgroup/place-holder.png
     content: about_tbd.md
@@ -62,7 +62,7 @@ profiles:
     more_info: >
       Andrew Sanford, Spatial Cancer Profiling
 
-- category: MS Students
+  - category: MS Students
     align: left
     image: tycgenomicsgroup/place-holder.png
     content: about_tbd.md
@@ -70,7 +70,7 @@ profiles:
     more_info: >
       Maxwell Moberg, Spatial Cancer Profiling
   
-  - category: Undergraduate Students
+   - category: Undergraduate Students
     align: left
     image: tycgenomicsgroup/place-holder.png
     content: about_sameen.md
@@ -86,7 +86,7 @@ profiles:
     more_info: >
       Brydon Wall, Pangenomics Collaborator
 
-- category: Affiliates
+  - category: Affiliates
     align: left
     image: tycgenomicsgroup/place-holder.png
     content: about_tbd.md
