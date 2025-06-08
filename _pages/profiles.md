@@ -48,7 +48,7 @@ profiles:
 
   - category: MS Students
     align: left
-    image: tycgenomicsgroup/place-holder.png
+    image: tycgenomicsgroup/farncisco2.png
     content: about_francisco.md
     image_circular: false
     more_info: >
