@@ -32,19 +32,19 @@ profiles:
 
   - category: MS Students
     align: left
-    image: tycgenomicsgroup/place-holder.png
-    content: about_shasmeen.md
-    image_circular: false
-    more_info: >
-      Shasmeen Azhar, Pangenomics
-
-  - category: MS Students
-    align: left
     image: tycgenomicsgroup/s.png
     content: about_stella.md
     image_circular: false
     more_info: >
       Stella Castro, Pangenomics
+
+  - category: MS Students
+    align: left
+    image: tycgenomicsgroup/place-holder.png
+    content: about_shasmeen.md
+    image_circular: false
+    more_info: >
+      Shasmeen Azhar, Pangenomics
 
   - category: MS Students
     align: left
