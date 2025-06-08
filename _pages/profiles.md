@@ -49,18 +49,18 @@ profiles:
   - category: MS Students
     align: left
     image: tycgenomicsgroup/place-holder.png
-    content: about_shasmeen.md
+    content: about_francisco.md
     image_circular: false
     more_info: >
-      Shasmeen Azhar, Pangenomics
+      Francisco Meersohn, Spatial Cancer Profiling
 
   - category: MS Students
     align: left
     image: tycgenomicsgroup/place-holder.png
-    content: about_tbd.md
+    content: about_shasmeen.md
     image_circular: false
     more_info: >
-      Francisco Meersohn, Spatial Cancer Profiling
+      Shasmeen Azhar, Pangenomics
 
   - category: MS Students
     align: left
