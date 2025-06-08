@@ -40,6 +40,14 @@ profiles:
 
   - category: MS Students
     align: left
+    image: tycgenomicsgroup/max.png
+    content: about_max.md
+    image_circular: false
+    more_info: >
+      Maxwell Moberg, Spatial Cancer Profiling
+
+  - category: MS Students
+    align: left
     image: tycgenomicsgroup/place-holder.png
     content: about_shasmeen.md
     image_circular: false
@@ -61,14 +69,6 @@ profiles:
     image_circular: false
     more_info: >
       Andrew Sanford, Spatial Cancer Profiling
-
-  - category: MS Students
-    align: left
-    image: tycgenomicsgroup/place-holder.png
-    content: about_max.md
-    image_circular: false
-    more_info: >
-      Maxwell Moberg, Spatial Cancer Profiling
   
   - category: Undergraduate Students
     align: left
