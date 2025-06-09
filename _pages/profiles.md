@@ -48,7 +48,7 @@ profiles:
 
   - category: MS Students
     align: left
-    image: tycgenomicsgroup/farncisco2.png
+    image: tycgenomicsgroup/francisco2.png
     content: about_francisco.md
     image_circular: false
     more_info: >
@@ -72,7 +72,7 @@ profiles:
   
   - category: Undergraduate Students
     align: left
-    image: tycgenomicsgroup/place-holder.png
+    image: tycgenomicsgroup/sameen.png
     content: about_sameen.md
     image_circular: false
     more_info: >
