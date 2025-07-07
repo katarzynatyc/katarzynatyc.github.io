@@ -64,7 +64,7 @@ profiles:
 
   - category: MS Students
     align: left
-    image: tycgenomicsgroup/place-holder.png
+    image: tycgenomicsgroup/andrew.png
     content: about_andrew.md
     image_circular: false
     more_info: >
