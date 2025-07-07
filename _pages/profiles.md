@@ -65,7 +65,7 @@ profiles:
   - category: MS Students
     align: left
     image: tycgenomicsgroup/place-holder.png
-    content: about_tbd.md
+    content: about_andrew.md
     image_circular: false
     more_info: >
       Andrew Sanford, Spatial Cancer Profiling
