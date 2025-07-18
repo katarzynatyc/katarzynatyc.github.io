@@ -76,7 +76,7 @@ profiles:
     content: about_sameen.md
     image_circular: false
     more_info: >
-      Sameen Hossain, Spatial Cancer Profiling
+      Sameen S. Hossain, Spatial Cancer Profiling
 
   - category: Affiliates
     align: left
