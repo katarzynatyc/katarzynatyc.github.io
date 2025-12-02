@@ -69,7 +69,7 @@ profiles:
      - Maxwell Moberg
      - Andrew Sanford
 
-  - category: Alumni
+- category: Alumni
     project: "2023 MSs Bioinformatics Graduate Externship, VCU. Project: NGS Pipeline for S. sanguinis Mutant Screening."
     names:
      - Alex Lupton
