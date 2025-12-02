@@ -71,14 +71,14 @@ profiles:
       Sameen S. Hossain, Spatial Cancer Profiling
 
   - category: Alumni
-    project: "2025 MSs Bioinformatics Graduate Externship, VCU. 'Developing Visium HD Pipeline for Spatial Cancer Profiling.'"
+    project: "2025 MSs Bioinformatics Graduate Externship, VCU. Developing Visium HD Pipeline for Spatial Cancer Profiling."
     names:
      - Francisco Meersohn
      - Maxwell Moberg
      - Andrew Sanford
 
   - category: Alumni
-    project: "2023 MSs Bioinformatics Graduate Externship, VCU. 'NGS Pipeline for S. sanguinis Mutant Screening.'"
+    project: "2023 MSs Bioinformatics Graduate Externship, VCU. NGS Pipeline for S. sanguinis Mutant Screening."
     names:
      - Alex Lupton
      - Akshaya Ranganathan
