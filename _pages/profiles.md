@@ -46,7 +46,7 @@ profiles:
     more_info: >
       Stella Castro, Pangenomics
 
-  - category: BSc Students
+  - category: Undergraduate Students
     align: left
     image: tycgenomicsgroup/place-holder.png
     content: about_shasmeen.md
