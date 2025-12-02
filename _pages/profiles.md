@@ -30,7 +30,7 @@ profiles:
     more_info: >
       Miranda Brown, Spatial Microbiome Profiling
 
- - category: MS Students
+  - category: MS Students
     align: left
     image: tycgenomicsgroup/place-holder.png
     content: about_tbd.md
@@ -62,14 +62,14 @@ profiles:
     more_info: >
       Sameen S. Hossain, Spatial Cancer Profiling
 
-- category: Alumni
+  - category: Alumni
     project: "2025 MSs Bioinformatics Graduate Externship, VCU. Project: Developing Visium HD Pipeline for Spatial Cancer Profiling."
     names:
      - Francisco Meersohn
      - Maxwell Moberg
      - Andrew Sanford
 
-- category: Alumni
+  - category: Alumni
     project: "2023 MSs Bioinformatics Graduate Externship, VCU. Project: NGS Pipeline for S. sanguinis Mutant Screening."
     names:
      - Alex Lupton
