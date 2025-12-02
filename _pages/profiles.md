@@ -30,6 +30,14 @@ profiles:
     more_info: >
       Miranda Brown, Spatial Microbiome Profiling
 
+ - category: MS Students
+    align: left
+    image: tycgenomicsgroup/place-holder.png
+    content: about_tbd.md
+    image_circular: false
+    more_info: >
+      Jason LaPierre, Spatial Microbiome Profiling
+
   - category: MS Students
     align: left
     image: tycgenomicsgroup/s.png
@@ -38,23 +46,7 @@ profiles:
     more_info: >
       Stella Castro, Pangenomics
 
-  - category: MS Students
-    align: left
-    image: tycgenomicsgroup/max.png
-    content: about_max.md
-    image_circular: false
-    more_info: >
-      Maxwell Moberg, Spatial Cancer Profiling
-
-  - category: MS Students
-    align: left
-    image: tycgenomicsgroup/francisco2.png
-    content: about_francisco.md
-    image_circular: false
-    more_info: >
-      Francisco Meersohn, Spatial Cancer Profiling
-
-  - category: MS Students
+  - category: BSc Students
     align: left
     image: tycgenomicsgroup/place-holder.png
     content: about_shasmeen.md
@@ -62,14 +54,6 @@ profiles:
     more_info: >
       Shasmeen Azhar, Pangenomics
 
-  - category: MS Students
-    align: left
-    image: tycgenomicsgroup/andrew.png
-    content: about_andrew.md
-    image_circular: false
-    more_info: >
-      Andrew Sanford, Spatial Cancer Profiling
-  
   - category: Undergraduate Students
     align: left
     image: tycgenomicsgroup/sameen.png
@@ -78,26 +62,17 @@ profiles:
     more_info: >
       Sameen S. Hossain, Spatial Cancer Profiling
 
-  - category: Affiliates
-    align: left
-    image: tycgenomicsgroup/place-holder.png
-    content: about_tbd.md
-    image_circular: false
-    more_info: >
-      Brydon Wall, Pangenomics Collaborator
-
-  - category: Affiliates
-    align: left
-    image: tycgenomicsgroup/place-holder.png
-    content: about_tbd.md
-    image_circular: false
-    more_info: >
-      My (Jasmine) Nguyen, Pangenomics Collaborator
+- category: Alumni
+    project: "2025 MSs Bioinformatics Graduate Externship, VCU. Project: Developing Visium HD Pipeline for Spatial Cancer Profiling."
+    names:
+     - Francisco Meersohn
+     - Maxwell Moberg
+     - Andrew Sanford
 
   - category: Alumni
-    project: "MS students – VCU Bioinformatics Graduate Externship (2023). Project: NGS Pipeline for S. sanguinis Mutant Screening."
+    project: "2023 MSs Bioinformatics Graduate Externship, VCU. Project: NGS Pipeline for S. sanguinis Mutant Screening."
     names:
-     - Reid Spalding
-     - Akshaya Ranganathan
      - Alex Lupton
+     - Akshaya Ranganathan
+     - Reid Spalding
 ---
