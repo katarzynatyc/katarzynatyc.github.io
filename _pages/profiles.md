@@ -44,7 +44,7 @@ profiles:
     content: about_stella.md
     image_circular: false
     more_info: >
-      Stella Castro, Pangenomics
+      Stella Castro, Pangenomics and Cancer Genomics
 
   - category: Undergraduate Students
     align: left
@@ -52,7 +52,15 @@ profiles:
     content: about_shasmeen.md
     image_circular: false
     more_info: >
-      Shasmeen Azhar, Pangenomics
+      Shasmeen Azhar, Pangenomics and Cancer Genomics
+
+  - category: Undergraduate Students
+    align: left
+    image: tycgenomicsgroup/place-holder.png
+    content: about_tbd.md
+    image_circular: false
+    more_info: >
+      Yasin Shams, Microbiome
 
   - category: Undergraduate Students
     align: left
@@ -63,12 +71,14 @@ profiles:
       Sameen S. Hossain, Spatial Cancer Profiling
 
   - category: Alumni
-    project: "2025 MSs Bioinformatics Graduate Externship, VCU. Project: Developing Visium HD Pipeline for Spatial Cancer Profiling."
+    project: "2025 MSs Bioinformatics Graduate Externship, VCU. 'Developing Visium HD Pipeline for Spatial Cancer Profiling.'"
     names:
      - Francisco Meersohn
      - Maxwell Moberg
      - Andrew Sanford
-    project: "2023 MSs Bioinformatics Graduate Externship, VCU. Project: NGS Pipeline for S. sanguinis Mutant Screening."
+  
+  - category: Alumni
+    project: "2023 MSs Bioinformatics Graduate Externship, VCU. 'NGS Pipeline for S. sanguinis Mutant Screening.'"
     names:
      - Alex Lupton
      - Akshaya Ranganathan
