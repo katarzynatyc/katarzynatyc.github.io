@@ -76,7 +76,8 @@ profiles:
      - Francisco Meersohn
      - Maxwell Moberg
      - Andrew Sanford
-    project: "2023 MSs Bioinformatics Graduate Externship, VCU. 'NGS Pipeline for S. sanguinis Mutant Screening.'"
+    
+    "2023 MSs Bioinformatics Graduate Externship, VCU. 'NGS Pipeline for S. sanguinis Mutant Screening.'"
     names:
      - Alex Lupton
      - Akshaya Ranganathan
