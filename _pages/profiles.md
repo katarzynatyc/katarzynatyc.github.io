@@ -78,7 +78,7 @@ profiles:
      - Andrew Sanford
 
   - category: Alumni
-    "2023 MSs Bioinformatics Graduate Externship, VCU. 'NGS Pipeline for S. sanguinis Mutant Screening.'"
+    project: "2023 MSs Bioinformatics Graduate Externship, VCU. 'NGS Pipeline for S. sanguinis Mutant Screening.'"
     names:
      - Alex Lupton
      - Akshaya Ranganathan
