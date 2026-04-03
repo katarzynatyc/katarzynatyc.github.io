@@ -384,14 +384,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-tada-we-won-the-acs-irg-pilot-grant-microscope-we-re-diving-deep-into-how-genetic-diversity-shapes-cancer-using-cutting-edge-pangenome-approaches-earth-americas-dna",
-          title: ':tada: We Won the ACS-IRG Pilot Grant! :microscope: We’re diving deep into how...',
-          description: "",
-          section: "News",},{id: "news-our-paper-on-cell-typing-is-now-published-check-it-out-here",
+            },},{id: "news-our-paper-on-cell-typing-is-now-published-check-it-out-here",
           title: 'Our paper on cell typing is now published! Check it out here.',
           description: "",
           section: "News",},{id: "news-seedling-our-team-member-is-being-recognized-sparkles-we-are-excited-to-share-that-sameen-s-hossain-has-been-accepted-into-the-massey-cure-program-she-will-be-diving-into-experimental-research-to-gain-hands-on-wet-lab-experience-that-complements-her-strong-computational-expertise-microscope-test-tube-congratulations-to-her-on-this-well-deserved-opportunity-we-wish-her-continued-success-in-this-exciting-next-step-tada",
           title: ':seedling: Our team member is being recognized! :sparkles: We are excited to share...',
+          description: "",
+          section: "News",},{id: "news-seedling-another-student-achievement-to-celebrate-sparkles-we-are-proud-to-share-that-yasin-shams-has-earned-a-spot-in-the-university-of-virginia-summer-research-internship-program-srip-through-this-opportunity-he-will-explore-clinical-and-biomedical-research-while-pursuing-a-passion-for-medicine-stethoscope-hospital-congratulations-on-this-outstanding-accomplishment-we-are-excited-to-see-where-this-journey-leads-tada",
+          title: ':seedling: Another student achievement to celebrate! :sparkles: We are proud to share that...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
