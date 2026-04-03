@@ -48,8 +48,8 @@ profiles:
 
   - category: Undergraduate Students
     align: left
-    image: tycgenomicsgroup/place-holder.png
-    content: about_tbd.md
+    image: tycgenomicsgroup/yasin.png
+    content: about_yasin.md
     image_circular: false
     more_info: >
       Yasin Shams, Microbiome
