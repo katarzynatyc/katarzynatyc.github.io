@@ -1,12 +1,12 @@
 ---
 layout: post
-date: 2025-05-16 07:59:00-0400
+date: 2026-03-16 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-:seedling: **We Won cMEDA Seed Grant!** :sparkles:
+:seedling: **Our team member is being recognized!** :sparkles:
 
-Our team has been awarded a Seed Grant to explore the spatial microbiome and its dynamic relationship with the host! :dna:
+We are excited to share that **Sameen S. Hossain** has been accepted into the Massey CURE program! She will be diving into experimental research to gain hands-on wet-lab experience that complements her strong computational expertise :microscope: :test_tube:
 
-**Join us** as we come full circle — from early modeling to spatially resolved insights — in uncovering the microbiome’s intricate interactions with its host. :rocket:
+Congratulations to her on this well-deserved opportunity—we wish her continued success in this exciting next step :tada:
