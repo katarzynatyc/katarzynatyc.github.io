@@ -10,7 +10,6 @@ category_order:
   - PI / Lab Lead
   - MS Students
   - Undergraduate Students
-  - Affiliates
   - Alumni
 
 profiles:
