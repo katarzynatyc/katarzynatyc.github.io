@@ -60,12 +60,4 @@ profiles:
     image_circular: false
     more_info: >
       Sameen S. Hossain, Spatial Cancer Profiling
-
-  - category: Alumni
-    align: left
-    more_info: >
-      - Miranda Brown – MS Student – VCU Biostatistics (SSTP 2025). Project: Statistical methods for the analysis of spatial transcriptomics data of host-microbiome interactions.
-      - Summer 2025: Francisco Meersohn, Andrew Sanford, Maxwell Moberg – MS Students – VCU Bioinformatics Graduate Externship (BNFO 2025). Project: Best Practices Spatial Methods for Cancer Profiling.
-      - Reid Spalding, Akshaya Ranganathan, Alex Lupton – MS students – VCU Bioinformatics Graduate Externship (BNFO 2023). Project: NGS Pipeline for S. sanguinis Mutant Screening.
-  
 ---
