@@ -11,4 +11,4 @@ We are pleased to share that our latest paper, **“Butyrate prevents chemothera
 
 Congratulations to **Cheatham SM, Rehman Z, Arastonejad M, Kane R, Ahmad N, Luffman N, Harada H, Zhang Y, Tyc KM, Gewirtz DA, and Akbarali HI** on this exciting contribution to understanding strategies to mitigate chemotherapy-associated gastrointestinal toxicity and microbiome disruption :microscope: :test_tube:
 
-[Read the full article here:](https://pmc.ncbi.nlm.nih.gov/articles/PMC12779942/).
+[Click here to read the full article.](https://pmc.ncbi.nlm.nih.gov/articles/PMC12779942/).
