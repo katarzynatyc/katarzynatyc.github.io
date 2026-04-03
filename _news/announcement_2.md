@@ -7,6 +7,8 @@ related_posts: false
 
 :seedling: **Another student achievement to celebrate!** :sparkles:
 
-We are proud to share that **Yasin Shams** has earned a spot in the University of Virginia Summer Research Internship Program (SRIP)! Through this opportunity, he will explore clinical and biomedical research while pursuing a passion for medicine :stethoscope: :hospital:
+
+We are proud to share that **Yasin Shams** has earned a spot in the University of Virginia Summer Research Internship Program (SRIP)sponsored by the American Heart Association-funded SURE-CV program! Through this opportunity, he will use modern genomics and bioinformatics tools to study the genetic drivers of cardiovascular disease while pursuing a passion for medicine :stethoscope: :hospital:
+
 
 Congratulations on this outstanding accomplishment—we are excited to see where this journey leads :tada:
