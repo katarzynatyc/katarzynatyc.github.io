@@ -24,14 +24,6 @@ profiles:
 
   - category: MS Students
     align: left
-    image: tycgenomicsgroup/m.png
-    content: about_miranda.md
-    image_circular: false
-    more_info: >
-      Miranda Brown, Spatial Microbiome Profiling
-
-  - category: MS Students
-    align: left
     image: tycgenomicsgroup/place-holder.png
     content: about_tbd.md
     image_circular: false
