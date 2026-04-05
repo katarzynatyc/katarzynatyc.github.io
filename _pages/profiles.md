@@ -24,7 +24,7 @@ profiles:
   - category: MS Students
     align: left
     image: tycgenomicsgroup/place-holder.png
-    content: about_tbd.md
+    content: about_jason.md
     image_circular: false
     more_info: >
       Jason LaPierre, Spatial Microbiome Profiling
