@@ -23,7 +23,7 @@ profiles:
 
   - category: MS Students
     align: left
-    image: tycgenomicsgroup/j.png
+    image: tycgenomicsgroup/jason.png
     content: about_jason.md
     image_circular: false
     more_info: >
