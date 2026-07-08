@@ -402,7 +402,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-host-microbe-profiling",
           title: 'Host-microbe profiling',
-          description: "Supported by Visium HD spatial transcriptomics and custom microbial probes, we develop computational tools to uncover how host–microbe interactions shape tissue biology and disease.",
+          description: "Supported by spatially resolved host gene expression and microbial localization data, we develop computational tools to reveal how host–microbe interactions shape tissue biology and disease.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/microbial-profiling";
             },},{id: "projects-wgs",
