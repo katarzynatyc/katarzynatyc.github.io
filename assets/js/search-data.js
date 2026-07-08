@@ -410,9 +410,9 @@ ninja.data = [{
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/wgs";
-            },},{id: "projects-yasin-39-s-project",
-          title: 'Yasin&amp;#39;s Project',
-          description: "a project that redirects to another website",
+            },},{id: "projects-gi-microbial-signatures",
+          title: 'GI Microbial Signatures',
+          description: "We analyzed 1,700+ stool microbiome profiles to uncover chemotherapy-associated microbial shifts in gastrointestinal cancer patients through multi-cohort 16S meta-analysis.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/yasin-shams";
             },},{
