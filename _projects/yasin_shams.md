@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
+title: Yasin's Project
+description: a project that redirects to another website
+img: assets/img/yaseen_proj.png
+permalink: /projects/yasin-shams
+redirect: /assets/pdf/YasinPoster1.pdf
+importance: 3
 category: work
-giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.
