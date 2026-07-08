@@ -2,7 +2,13 @@
 layout: page
 title: projects
 permalink: /projects/
-description: >
+description:
+nav: true
+nav_order: 3
+display_categories: [work]
+horizontal: false
+---
+
   Our lab studies how microbes and host cells interact within complex tissues.
   We develop computational approaches that integrate genomics, spatial biology,
   and mathematical modeling to better understand infection, inflammation, and disease.
@@ -18,12 +24,7 @@ description: >
   microbiome analysis, or cutting-edge spatial transcriptomics, there are many opportunities
   to contribute to ongoing research while developing practical computational and data science skills.
   If this sounds exciting to you, we'd love to hear from you.
-nav: true
-nav_order: 3
-display_categories: [work]
-horizontal: false
----
-
+  
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
