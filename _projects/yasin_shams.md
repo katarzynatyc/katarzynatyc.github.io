@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Yasin's Project
-description: a project that redirects to another website
+title: GI Microbial Signatures
+description: We analyzed 1,700+ stool microbiome profiles to uncover chemotherapy-associated microbial shifts in gastrointestinal cancer patients through multi-cohort 16S meta-analysis.
 img: assets/img/yaseen_proj.png
 permalink: /projects/yasin-shams
 redirect: /assets/pdf/YasinPoster1.pdf
