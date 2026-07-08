@@ -2,7 +2,7 @@
 layout: page
 title: Cancer genomics
 description: "We analyze whole-genome sequencing data to characterize cancer genome architecture, identify clinically actionable biomarkers, and develop predictive models of therapeutic response."
-img: assets/img/metromap.png
+img: assets/img/cancergenomicsproject.png
 permalink: /projects/wgs
 redirect: /assets/pdf/work_in_progress.pdf
 importance: 2
