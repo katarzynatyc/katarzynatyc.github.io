@@ -1,7 +1,7 @@
 ---
 layout: page
-title: WGS
-description: a project with a background image and giscus comments<br>
+title: Cancer genomics
+description: "We analyze whole-genome sequencing data to characterize cancer genome architecture, identify clinically actionable biomarkers, and develop predictive models of therapeutic response."
 img: assets/img/metromap.png
 permalink: /projects/wgs
 redirect: /assets/pdf/work_in_progress.pdf
