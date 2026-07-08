@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
+        },{id: "nav-projects",
+          title: "projects",
+          description: "A growing collection of your cool projects.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -387,57 +394,27 @@ ninja.data = [{
             },},{id: "news-page-facing-up-new-publication-from-our-team-sparkles-we-are-pleased-to-share-that-our-latest-paper-butyrate-prevents-chemotherapy-induced-gastrointestinal-toxicity-and-microbial-dysbiosis-has-been-published-in-scientific-reports-2026-volume-16-article-785-congratulations-to-cheatham-sm-rehman-z-arastonejad-m-kane-r-ahmad-n-luffman-n-harada-h-zhang-y-tyc-km-gewirtz-da-and-akbarali-hi-on-this-exciting-contribution-to-understanding-strategies-to-mitigate-chemotherapy-associated-gastrointestinal-toxicity-and-microbiome-disruption-microscope-test-tube-click-here-to-read-the-full-article",
           title: ':page_facing_up: New publication from our team! :sparkles: We are pleased to share that...',
           description: "",
-          section: "News",},{id: "news-seedling-our-team-member-is-being-recognized-sparkles-we-are-excited-to-share-that-sameen-s-hossain-has-been-accepted-into-the-massey-cure-program-she-will-be-diving-into-experimental-research-to-gain-hands-on-wet-lab-experience-that-complements-her-strong-computational-expertise-microscope-test-tube-congratulations-to-her-on-this-well-deserved-opportunity-we-wish-her-continued-success-in-this-exciting-next-step-tada",
-          title: ':seedling: Our team member is being recognized! :sparkles: We are excited to share...',
-          description: "",
           section: "News",},{id: "news-seedling-another-student-achievement-to-celebrate-sparkles-we-are-proud-to-share-that-yasin-shams-has-earned-a-spot-in-the-university-of-virginia-summer-research-internship-program-srip-sponsored-by-the-american-heart-association-funded-sure-cv-program-through-this-opportunity-he-will-use-modern-genomics-and-bioinformatics-tools-to-study-the-genetic-drivers-of-cardiovascular-disease-while-pursuing-a-passion-for-medicine-stethoscope-hospital-congratulations-on-this-outstanding-accomplishment-we-are-excited-to-see-where-this-journey-leads-tada",
           title: ':seedling: Another student achievement to celebrate! :sparkles: We are proud to share that...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "news-newspaper-our-team-member-earned-the-cmeda-2026-summer-research-scholarship-sparkles-we-re-excited-to-announce-that-jason-lapierre-a-master-s-student-in-bioinformatics-has-earned-a-summer-research-scholarship-from-the-center-for-microbiome-engineering-and-data-analysis-cmeda-he-will-use-the-grant-to-further-his-research-in-spatial-transcriptomics-you-can-learn-more-about-his-project-on-our-new-page-stay-tuned-for-more-updates-about-the-cmeda-symposium-where-we-will-disseminate-our-findings-at-the-end-of-summer",
+          title: ':newspaper: Our team member earned the cMEDA 2026 Summer Research Scholarship! :sparkles: We’re...',
+          description: "",
+          section: "News",},{id: "projects-host-microbe-profiling",
+          title: 'Host-microbe profiling',
+          description: "Spatial transcriptomics project to create a reproducible pipeline and software for the identification of host-microbe interactions using 10X Genomics Visium HD platform.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
+              window.location.href = "/projects/microbial-profiling";
+            },},{id: "projects-wgs",
+          title: 'WGS',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
+              window.location.href = "/projects/wgs";
+            },},{id: "projects-yasin-39-s-project",
+          title: 'Yasin&amp;#39;s Project',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/yasin-shams";
             },},{
         id: 'social-github',
         title: 'GitHub',
