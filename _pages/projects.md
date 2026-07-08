@@ -23,6 +23,7 @@ horizontal: false
   Whether you want to learn scripting, high-performance computing, cancer genomics,
   microbiome analysis, or cutting-edge spatial transcriptomics, there are many opportunities
   to contribute to ongoing research while developing practical computational and data science skills.
+  
   If this sounds exciting to you, we'd love to hear from you.
   
 <!-- pages/projects.md -->
