@@ -2,7 +2,7 @@
 layout: page
 title: GI Microbial Signatures
 description: We analyzed 1,700+ stool microbiome profiles to uncover chemotherapy-associated microbial shifts in gastrointestinal cancer patients through multi-cohort 16S meta-analysis.
-img: assets/img/yaseen_proj.png
+img: assets/img/16sproject.png
 permalink: /projects/yasin-shams
 redirect: /assets/pdf/YasinPoster1.pdf
 importance: 3
