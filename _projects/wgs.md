@@ -4,6 +4,7 @@ title: WGS
 description: a project with a background image and giscus comments<br>
 img: assets/img/metromap.png
 permalink: /projects/wgs
+redirect: /assets/pdf/work_in_progress.pdf
 importance: 2
 category: work
 giscus_comments: true
