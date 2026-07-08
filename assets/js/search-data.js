@@ -405,9 +405,9 @@ ninja.data = [{
           description: "Supported by spatially resolved host gene expression and microbial localization data, we develop computational tools to reveal how host–microbe interactions shape tissue biology and disease.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/microbial-profiling";
-            },},{id: "projects-wgs",
-          title: 'WGS',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-cancer-genomics",
+          title: 'Cancer genomics',
+          description: "We analyze whole-genome sequencing data to characterize cancer genome architecture, identify clinically actionable biomarkers, and develop predictive models of therapeutic response.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/wgs";
             },},{id: "projects-gi-microbial-signatures",
