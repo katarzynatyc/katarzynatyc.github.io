@@ -19,4 +19,4 @@ latest_posts:
 
 I am an Assistant Professor in the <a href='https://sph.vcu.edu/about/portfolio/details/tyck/'>Department of Biostatistics</a> at the Virginia Commonwealth University (VCU) School of Public Health and a Faculty member in the <a href='https://www.masseycancercenter.org/research/shared-resource-cores/bioinformatics/'>Bioinformatics Shared Resource Core</a> at the Massey Comprehensive Cancer Center. My research centers on developing and applying innovative computational methods to dissect complex biological systems, integrating high-dimensional biological data with clinical understanding. My work spans areas such as spatial biology, host-microbe interactions, cancer genomics and person-specific health outcomes, and human genetics. 
 
-I am always open to discussing potential collaborations with investigators across the medical and life sciences campuses and encourage students interested in internships or graduate research opportunities to reach out. 
+Students interested in internships or graduate research opportunities are encouraged to reach out. 
