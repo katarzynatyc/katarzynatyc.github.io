@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Host-microbe profiling
-description: >
-    We develop computational tools and use Visium HD with custom microbial probes to spatially profile host transcriptomes and microbial localization, revealing host–microbe interactions.
-Visium HD platform.
+description: Supported by Visium HD spatial transcriptomics and custom microbial probes, we develop computational tools to uncover how host–microbe interactions shape tissue biology and disease.
 img: assets/img/project_1_img.png
 permalink: /projects/microbial-profiling
 redirect: /assets/pdf/work_in_progress.pdf
