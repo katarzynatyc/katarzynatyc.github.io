@@ -400,11 +400,11 @@ ninja.data = [{
           section: "News",},{id: "news-newspaper-our-team-member-earned-the-cmeda-2026-summer-research-scholarship-sparkles-we-re-excited-to-announce-that-jason-lapierre-a-master-s-student-in-bioinformatics-has-earned-a-summer-research-scholarship-from-the-center-for-microbiome-engineering-and-data-analysis-cmeda-he-will-use-the-grant-to-further-his-research-in-spatial-transcriptomics-you-can-learn-more-about-his-project-on-our-new-page-stay-tuned-for-more-updates-about-the-cmeda-symposium-where-we-will-disseminate-our-findings-at-the-end-of-summer",
           title: ':newspaper: Our team member earned the cMEDA 2026 Summer Research Scholarship! :sparkles: We’re...',
           description: "",
-          section: "News",},{id: "projects-",
-          title: '',
-          description: "",
+          section: "News",},{id: "projects-host-microbe-profiling",
+          title: 'Host-microbe profiling',
+          description: "Supported by Visium HD spatial transcriptomics and custom microbial probes, we develop computational tools to uncover how host–microbe interactions shape tissue biology and disease.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/microbial_profiling/";
+              window.location.href = "/projects/microbial-profiling";
             },},{id: "projects-wgs",
           title: 'WGS',
           description: "a project with a background image and giscus comments",
