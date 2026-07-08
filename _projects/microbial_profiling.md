@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Host-microbe profiling
-description: "Supported by spatially resolved host gene expression and microbial localization data, we develop computational tools to reveal how host–microbe interactions shape tissue biology and disease."
+description: "We develop computational tools to reveal how host–microbe interactions shape tissue biology and disease."
 img: assets/img/project_1_img.png
 permalink: /projects/microbial-profiling
 redirect: /assets/pdf/work_in_progress.pdf
