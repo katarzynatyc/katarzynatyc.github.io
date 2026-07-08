@@ -4,6 +4,7 @@ title: Host-microbe profiling
 description: Spatial transcriptomics project to create a reproducible pipeline and software for the identification of host-microbe interactions using 10X Genomics Visium HD platform.
 img: assets/img/project_1_img.png
 permalink: /projects/microbial-profiling
+redirect: /assets/pdf/work_in_progress.pdf
 importance: 1
 category: work
 related_publications: true
