@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
+        },{id: "nav-projects",
+          title: "projects",
+          description: "Our lab studies how microbes and host cells interact within complex tissues. We develop computational approaches that integrate genomics, spatial biology, and mathematical modeling to better understand infection, inflammation, and disease. We also build standardized pipelines for 16S microbiome meta-analysis to identify microbial taxa and community patterns that shape host biology.Beyond host–microbe interactions, we investigate genome rearrangements and somatic alterations in cancer, developing computational methods and analysis pipelines to uncover the genomic events driving tumor evolution and disease.We welcome students from diverse research backgrounds who are interested in computational biology. Whether you want to learn scripting, high-performance computing, cancer genomics, microbiome analysis, or cutting-edge spatial transcriptomics, there are many opportunities to contribute to ongoing research while developing practical computational and data science skills. If this sounds exciting to you, we&#39;d love to hear from you.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
