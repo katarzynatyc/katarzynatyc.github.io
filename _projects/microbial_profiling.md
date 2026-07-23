@@ -6,7 +6,7 @@ img: assets/img/project_1_img.png
 permalink: /projects/microbial-profiling
 redirect: /assets/pdf/work_in_progress.pdf
 importance: 1
-category: work
+category: tools
 related_publications: true
 ---
 
